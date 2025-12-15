@@ -1,0 +1,18 @@
+﻿{
+  "name": "com.failcake.timers",
+  "displayName": "Timers",
+  "version": "0.0.1",
+  "unity": "6000.0",
+  "description": "Simple timer utils, based on GMOD's timers",
+  "type": "library",
+  "keywords": [
+    "util",
+    "timer"
+  ],
+  "author": {
+    "name": "FailCake",
+    "url": "https://github.com/edunad/FailCake.Timers"
+  },
+  "dependencies": {
+  }
+}
